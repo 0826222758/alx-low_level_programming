@@ -3,12 +3,12 @@
 /**
 
 * main - print _putchar
-
+ 
 * is written by mbah
 
-* Return: 0
+* Return: Always 0
 
- */
+*/
 
 
 int main(void)
